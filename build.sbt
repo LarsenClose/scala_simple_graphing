@@ -1,4 +1,4 @@
-name := "homework01"
+name := "scala_simple_graphing"
 
 version := "0.1"
 
